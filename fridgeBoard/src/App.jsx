@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import { Link } from 'react-router-dom'
 import CurrentMate from './Components/CurrentMate.jsx'    
+import CrewSummary from './Components/CrewSummary.jsx'
 function App() {
   return (
     <>
@@ -13,6 +14,7 @@ function App() {
           <Link to="/add" className="button-link"> Add </Link>
         </button>
         <hr />
+        <CrewSummary />
         <h2 className='current-mate'>Current Mate:</h2>
         <div>
           <CurrentMate />
