@@ -60,10 +60,10 @@ GIF created with Imgur (https://i.imgur.com/XQEANY8.gif)
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+  Trouble with CSS, and using the supabase.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Zicheng]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
